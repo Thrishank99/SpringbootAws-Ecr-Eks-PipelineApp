@@ -8,7 +8,7 @@ public class SpringbootAwsEcrEcsPipelineApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootAwsEcrEcsPipelineApplication.class, args);
-		System.out.println("hello");
+		
 	}
 
 }
