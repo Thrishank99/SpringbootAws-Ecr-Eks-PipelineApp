@@ -4,7 +4,7 @@ spring:
   datasource:
    #driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    url: jdbc:mysql://database-1.cxwqmuy08vwx.ap-south-1.rds.amazonaws.com:3306/awstest
+    url: jdbc:mysql://springbootaws-db.cxwqmuy08vwx.ap-south-1.rds.amazonaws.com:3306/awstest?useSSL=false&allowPublicKeyRetrieval=true
     password: mysqlroot
   jpa:
     hibernate:
