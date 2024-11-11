@@ -90,7 +90,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>springboot-ecr-ecs-pipeline-test</finalName>
+	<finalName>springboot-aws-eks-pipeline</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
